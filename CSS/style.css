@@ -66,8 +66,7 @@ header {
   background-position: center;
   
   /* clip the text is possible */
-  text-fill-color: transparent;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: black;
   background-clip: text;
   -webkit-background-clip: text;
   
@@ -87,7 +86,7 @@ header {
 }
 
 .container_image .title_wrapper h1 {
-  color: white;
+  color:black;
 }
 
 .container_image .title_wrapper h2 {
